@@ -1,0 +1,4 @@
+interface:
+  display_name: "One Task"
+  short_description: "Turn complex requests into one reusable, validated script."
+  brand_color: "#FFA25E"
